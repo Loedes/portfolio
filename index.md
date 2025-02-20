@@ -5,7 +5,6 @@
 <details>
     <summary>A propos de moi </summary>
          
-    
     Passionnée depuis de nombreuses années par la data science, je suis diplômée d’un Master de recherche en Intelligence Artificielle de l’Université PSL (Dauphine, ENS, Mines Paris) réalisé en alternance en tant qu’AI Engineer.
      
 🧠 **Solides connaissances en  :**  
