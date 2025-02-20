@@ -19,7 +19,6 @@ Passionnée depuis de nombreuses années par la data science, je suis diplômée
 * PyTorch, Tensorflow, 🤗 transformers, ...
 * Spark, Kafka, Flink
 * <!-- Docker, FastAPI  -->
-</details>
 
 
 ## Mes Projets
